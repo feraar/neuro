@@ -1,6 +1,5 @@
-## About Neuro
-Neuro empowers CMS enabled website. It is a CMS Adapter that allows centralised management of content for websites, social channels and blogging platforms.
-Extremely versatile and simple control UI with easy publishing to multiple environments (live, staging, demo, etc), makes this great for any content management. 
+## Neuro Release Notes
+Release notes are published for each version Release (minor/major). Listed in descedning chronological order. 
 
 ### RELEASES
 
